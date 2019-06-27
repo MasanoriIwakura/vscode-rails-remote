@@ -1,0 +1,13 @@
+{
+  "name": "Ruby on Rails Development Sample",
+  "dockerFile": "Dockerfile",
+  "appPort": 3000,
+  "extensions": [
+    "rebornix.ruby",
+    "hridoy.rails-snippets"
+  ],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "postCreateCommand": "bundle install --path vendor/bundle"
+}
