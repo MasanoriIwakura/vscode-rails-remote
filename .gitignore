@@ -31,4 +31,6 @@
 /config/master.key
 
 # User Add
-/vendor/bundle
+/vendor/
+*.log
+.vagrant
