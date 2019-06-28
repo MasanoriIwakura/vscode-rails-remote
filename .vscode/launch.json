@@ -1,0 +1,22 @@
+{
+  // IntelliSense を使用して利用可能な属性を学べます。
+  // 既存の属性の説明をホバーして表示します。
+  // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Rails server",
+      "type": "Ruby",
+      "request": "launch",
+      "cwd": "${workspaceRoot}",
+      "program": "bin/rails",
+      "args": [ 
+        "server",
+        "-b",
+        "0.0.0.0"
+      ],
+      "showDebuggerOutput": true,
+      "useBundler": true
+    }
+  ]
+}
