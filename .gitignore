@@ -34,3 +34,4 @@
 /vendor/
 *.log
 .vagrant
+.DS_Store
