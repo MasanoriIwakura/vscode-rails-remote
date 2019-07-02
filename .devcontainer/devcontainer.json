@@ -4,7 +4,8 @@
   "appPort": 3000,
   "extensions": [
     "rebornix.ruby",
-    "hridoy.rails-snippets"
+    "hridoy.rails-snippets",
+    "endwise"
   ],
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
