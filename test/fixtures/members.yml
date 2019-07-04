@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  seq: 1
+  name: Taro
+  age: 25
+  sex: M
+
+two:
+  seq: 2
+  name: Hanako
+  age: 20
+  sex: F

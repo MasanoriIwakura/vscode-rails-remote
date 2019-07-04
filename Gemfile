@@ -64,3 +64,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Develop
 gem 'ruby-debug-ide'
 gem 'debase'
+gem 'fixtures'

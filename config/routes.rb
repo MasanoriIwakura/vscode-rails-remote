@@ -1,3 +1,4 @@
 Rails.application.routes.draw do
-  get 'hello' => 'hello#show'
+  get 'hello/:name' => 'hello#show'
+  get 'list/index'
 end
